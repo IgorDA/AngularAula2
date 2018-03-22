@@ -14,7 +14,7 @@ import { AppRoutingModule } from './/app-routing.module';
     AppComponent,
     HeaderComponent,
     JumbotronComponent,
-    ContatoComponent
+    ContatoComponent,
   ],
   imports: [
     BrowserModule,
